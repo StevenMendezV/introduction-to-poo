@@ -21,6 +21,6 @@ En el repositorio actual se podrá evidenciar:
 - **Reconocimiento y distinción de los atributos de una clase sobre los atributos de instancia de una clase.**
 - Distinción de la definición del método en el polimorfismo.
 
-> *"Soy consciente del manejo capaz que Steven otorga a esta área de conocimiento, he tenido la oportunidad de observar sus habilidades en colaboraciones a proyectos personales y lo hace realmente bien*
+> *"Soy consciente del manejo capaz que Steven otorga a esta área de conocimiento, he tenido la oportunidad de observar sus habilidades en colaboraciones a proyectos personales y lo hace realmente bien".*
 >- Ricardo Hernandez, Junior Software Developer
 
